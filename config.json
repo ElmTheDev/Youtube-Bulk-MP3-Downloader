@@ -1,0 +1,7 @@
+{
+	"apiKey": "",
+	"songList": "./songs.txt",
+	"fileFormat": "mp3",
+	"ffmpegPath": "./ffmpeg/ffmpeg.exe",
+	"outputPath": "./mp3"
+}
